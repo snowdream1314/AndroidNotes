@@ -20,8 +20,8 @@
 ---
 ### Java
 ##### Java基础
-- [HashMap源码解析]()
-- [LinkedHashMap源码解析]()
-- [HashTable源码解析]()
-- [ArrayList、LinkedList源码解析]()
-- [HashSet、LinkedHashSet源码解析]()
+- [HashMap源码解析](https://www.jianshu.com/p/58d516c7dab4)
+- [LinkedHashMap源码解析](https://www.jianshu.com/p/04f48e8a28b8)
+- [HashTable源码解析](https://www.jianshu.com/p/6e474c544ecd)
+- [ArrayList源码解析](https://www.jianshu.com/p/f4afd9bcf1a8)
+- [LinkedList源码解析](https://www.jianshu.com/p/af0952ea22bc)
