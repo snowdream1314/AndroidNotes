@@ -31,3 +31,7 @@
 - [数组](https://github.com/snowdream1314/AndroidNotes/blob/master/DataStructure/%E6%95%B0%E7%BB%84.md)
 - [单链表](https://github.com/snowdream1314/AndroidNotes/blob/master/DataStructure/%E5%8D%95%E9%93%BE%E8%A1%A8.md)
 - [双向链表](https://github.com/snowdream1314/AndroidNotes/blob/master/DataStructure/%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
+
+---
+### 读书笔记
+- [Effect Java](https://github.com/snowdream1314/AndroidNotes/blob/master/BookNote/Effective%20Java%E7%AC%94%E8%AE%B0.md)
