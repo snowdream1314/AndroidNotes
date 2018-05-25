@@ -25,6 +25,11 @@
 - [HashTable源码解析](https://www.jianshu.com/p/6e474c544ecd)
 - [ArrayList源码解析](https://www.jianshu.com/p/f4afd9bcf1a8)
 - [LinkedList源码解析](https://www.jianshu.com/p/af0952ea22bc)
+- [Effect Java](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/Java%E5%9F%BA%E7%A1%80/Effective%20Java%E7%AC%94%E8%AE%B0.md)
+
+##### JVM
+- [深入理解Java虚拟机(一)](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%AC%94%E8%AE%B0(%E4%B8%80).md)
+- [深入理解Java虚拟机(二)](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E4%BA%8C).md)
 
 ---
 ### 数据结构
@@ -32,7 +37,3 @@
 - [单链表](https://github.com/snowdream1314/AndroidNotes/blob/master/DataStructure/%E5%8D%95%E9%93%BE%E8%A1%A8.md)
 - [双向链表](https://github.com/snowdream1314/AndroidNotes/blob/master/DataStructure/%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
 
----
-### 读书笔记
-- [Effect Java](https://github.com/snowdream1314/AndroidNotes/blob/master/BookNote/Effective%20Java%E7%AC%94%E8%AE%B0.md)
-- [深入理解Java虚拟机(一)](https://github.com/snowdream1314/AndroidNotes/blob/master/BookNote/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%AC%94%E8%AE%B0(%E4%B8%80).md)
