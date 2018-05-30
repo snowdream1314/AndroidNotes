@@ -32,6 +32,8 @@
 - [深入理解Java虚拟机(二)之四种引用](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E4%BA%8C)%E4%B9%8B%E5%9B%9B%E7%A7%8D%E5%BC%95%E7%94%A8.md)
 - [深入理解Java虚拟机(三)之垃圾收集](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E4%B8%89)%E4%B9%8B%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86.md)
 - [深入理解Java虚拟机(四)之JVM调优](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E5%9B%9B)%E4%B9%8BJVM%E8%B0%83%E4%BC%98.md)
+- [深入理解Java虚拟机(五)之类文件结构](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E4%BA%94)%E4%B9%8B%E7%B1%BB%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.md)
+
 
 
 ---
