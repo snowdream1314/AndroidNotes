@@ -34,6 +34,8 @@
 - [深入理解Java虚拟机(四)之JVM调优](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E5%9B%9B)%E4%B9%8BJVM%E8%B0%83%E4%BC%98.md)
 - [深入理解Java虚拟机(五)之类文件结构](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E4%BA%94)%E4%B9%8B%E7%B1%BB%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.md)
 - [深入理解Java虚拟机(六)之类加载机制](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E5%85%AD)%E4%B9%8B%E7%B1%BB%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6.md)
+- [深入理解Java虚拟机(七)之虚拟机执行子系统](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E4%B8%83)%E4%B9%8B%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%89%A7%E8%A1%8C%E5%AD%90%E7%B3%BB%E7%BB%9F.md)
+- [深入理解Java虚拟机(八)之Java内存模型](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E5%85%AB)%E4%B9%8BJava%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)
 
 
 
