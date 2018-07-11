@@ -3,14 +3,19 @@
 ### Android
 
 #### Android 多进程
-- [Android 多进程通信之几个基本问题]()
-- [Android多进程之Binder的使用]()
-- [Android多进程之手动编写Binder类]()
-- [Android多进程之Binder解绑监听的问题]()
-- [Android多进程之Binder的意外死亡及权限校验]()
-- [Android 多进程之Messenger的使用]()
+
+- [Android 多进程通信之几个基本问题](https://www.jianshu.com/p/3c974976abdc)
+- [Android 多进程之Binder的使用](https://www.jianshu.com/p/aa45b395db10)
+- [Android 多进程之手动编写Binder类](https://www.jianshu.com/p/eb0d534377e2)
+- [Android 多进程之Binder解绑监听的问题](https://www.jianshu.com/p/7e039bda3161)
+- [Android 多进程之Binder的意外死亡及权限校验](https://www.jianshu.com/p/03a082a2770e)
+- [Android 多进程之Messenger的使用](https://www.jianshu.com/p/671b07f5ef86)
 
 #### Android 多线程
+
+- [Android 多线程之几个基本问题]()
+- [Android 多线程之阻塞队列]()
+
 ---
 ### 设计模式
 - [Android 设计模式之单例模式](http://www.jianshu.com/p/1b3710bee2ef)
@@ -36,6 +41,8 @@
 - [ArrayList源码解析](https://www.jianshu.com/p/f4afd9bcf1a8)
 - [LinkedList源码解析](https://www.jianshu.com/p/af0952ea22bc)
 - [Effect Java](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/Java%E5%9F%BA%E7%A1%80/Effective%20Java%E7%AC%94%E8%AE%B0.md)
+- [ArrayBlockingQueue源码解析]()
+- [LinkedBlockingQueue源码解析]()
 
 ##### JVM
 - [深入理解Java虚拟机(一)之内存布局和对象的创建](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E4%B8%80)%E4%B9%8B%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)
