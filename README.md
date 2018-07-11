@@ -1,6 +1,16 @@
 # AndroidNotes
 ---
 ### Android
+
+#### Android 多进程
+- [Android 多进程通信之几个基本问题]()
+- [Android多进程之Binder的使用]()
+- [Android多进程之手动编写Binder类]()
+- [Android多进程之Binder解绑监听的问题]()
+- [Android多进程之Binder的意外死亡及权限校验]()
+- [Android 多进程之Messenger的使用]()
+
+#### Android 多线程
 ---
 ### 设计模式
 - [Android 设计模式之单例模式](http://www.jianshu.com/p/1b3710bee2ef)
@@ -28,7 +38,7 @@
 - [Effect Java](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/Java%E5%9F%BA%E7%A1%80/Effective%20Java%E7%AC%94%E8%AE%B0.md)
 
 ##### JVM
-- [深入理解Java虚拟机(一)之内存模型](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E4%B8%80)%E4%B9%8B%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)
+- [深入理解Java虚拟机(一)之内存布局和对象的创建](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E4%B8%80)%E4%B9%8B%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)
 - [深入理解Java虚拟机(二)之四种引用](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E4%BA%8C)%E4%B9%8B%E5%9B%9B%E7%A7%8D%E5%BC%95%E7%94%A8.md)
 - [深入理解Java虚拟机(三)之垃圾收集](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E4%B8%89)%E4%B9%8B%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86.md)
 - [深入理解Java虚拟机(四)之JVM调优](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E5%9B%9B)%E4%B9%8BJVM%E8%B0%83%E4%BC%98.md)
