@@ -299,7 +299,6 @@ public class SynchronousQueue<E> extends AbstractQueue<E>
             }
         }
         
-        <!--这里关键的一些方法已经讲了，TransferStack的原理-->
     }
 }
 ```

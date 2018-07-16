@@ -13,12 +13,14 @@
 
 #### Android 多线程
 
-- [Android 多线程之几个基本问题]()
-- [Android 多线程之阻塞队列]()
-- [Android 多线程之阻塞队列]()
-- [Android多线程之常见的线程形态]()
+- [Android 多线程之几个基本问题](https://www.jianshu.com/p/06508f47143e)
+- [Android 多线程之阻塞队列](https://www.jianshu.com/p/9eb1263e27df)
+- [Android多线程之常见的线程形态](https://www.jianshu.com/p/e4f1a3aac1da)
 - [Android 多线程之线程池]()
 
+#### Android 消息机制
+
+- [Android 消息机制]()
 ---
 ### 设计模式
 - [Android 设计模式之单例模式](http://www.jianshu.com/p/1b3710bee2ef)
@@ -45,9 +47,9 @@
 - [LinkedList源码解析](https://www.jianshu.com/p/af0952ea22bc)
 - [Effect Java](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/Java%E5%9F%BA%E7%A1%80/Effective%20Java%E7%AC%94%E8%AE%B0.md)
 - [ArrayBlockingQueue源码解析](https://www.jianshu.com/p/3eaf5b71aba9)
-- [LinkedBlockingQueue源码解析](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/Java%E5%9F%BA%E7%A1%80/LinkedBlockingQueue%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
-- [SynchronousQueue源码解析]()
-- [DelayQueue源码分析]()
+- [LinkedBlockingQueue源码解析](https://www.jianshu.com/p/e7de58599298)
+- [SynchronousQueue源码解析](https://www.jianshu.com/p/8ded086515bd)
+- [DelayQueue源码分析](https://www.jianshu.com/p/eea30fbd3577)
 
 ##### JVM
 - [深入理解Java虚拟机(一)之内存布局和对象的创建](https://github.com/snowdream1314/AndroidNotes/blob/master/Java/JVM/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Java%E8%99%9A%E6%8B%9F%E6%9C%BA(%E4%B8%80)%E4%B9%8B%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B.md)

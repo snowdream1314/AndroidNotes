@@ -15,12 +15,14 @@
 #### 阻塞队列的实现原理
 ##### ArrayBlockingQueue
 
+- [ArrayBlockingQueue源码解析](https://www.jianshu.com/p/3eaf5b71aba9)
 - ArrayBlockingQueue是一个用数组实现的有界阻塞队列，通过全局独占锁来实现出队和入队操作，同时只能有一个线程进行入队或出队操作
 - ArrayBlockingQueue的offer、poll通过简单的加锁进行入队出队操作，并且不会阻塞线程；而put、take则通过重入锁的条件对象实现队列满则等待、队列空则等待，会阻塞当前线程
 - ArrayBlockingQueue能通过size方法获取准确的队列元素个数
 
 ##### LinkedBlockingQueue
 
+- [LinkedBlockingQueue源码解析](https://www.jianshu.com/p/e7de58599298)
 - LinkedBlockingQueue是一个基于链表的队列，并且是一个先进先出的队列。
 - LinkedBlockingQueue如果不指定队列的容量，默认容量大小为Integer.MAX_VALUE，有可能造成占用内存过大的情况
 - LinkedBlockingQueue内部对入队和出队操作采用了不同的锁，这样入队和出队操作可以并发进行。但同时只能有一个线程可以进行入队或出队操作。
@@ -28,12 +30,16 @@
 - LinkedBlockingQueue通过操作原子变量count来获取当前队列的元素个数
 
 ##### SynchronousQueue
+
+- [SynchronousQueue源码解析](https://www.jianshu.com/p/8ded086515bd)
 - SynchronousQueue本身没有容量存储元素，但是它是通过管理提交操作的线程队列来实现阻塞队列的
 - SynchronousQueue可以实现控制线程先进先出进行排序，也就是先被挂起的线程先被唤醒，这个内部是通过链表来实现的。SynchronousQueue默认是不保证证唤醒的顺序的
 - SynchronousQueue的不带超时时间的offer和poll方法不会挂起线程，而take和put方法可能会挂起线程。
 - SynchronousQueue一个典型的应用场景是线程池newCachedThreadPool，如果入队操作和出队操作的处理速度相差比较大的话有可能会创建大量线程，有耗尽内存的风险
 
 ##### DelayQueue
+
+- [DelayQueue源码分析](https://www.jianshu.com/p/eea30fbd3577)
 - DelayQueue是基于优先级PriorityQueue实现的，而PriorityQueue的默认构造方法设置容量为11，所以DelayQueue是有界的
 - DelayQueue中的元素都必须实现Delayed接口的getDelay方法，以便可以定时执行任务
 - DelayQueue中的元素不一定会按照添加的顺序，而是根据元素的优先级排序，元素可以通过实现Comparable接口来定制排列的顺序
